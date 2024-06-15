@@ -9,6 +9,11 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+  // 배포용 라이브러리(불필요한 라이브러리가 있으면 안된다)
     "jquery": "^3.7.1"
+  },
+  // 보조 라이브러리(개발용)
+  "devDependencies": {
+    "vue": "^3.4.29"
   }
 }

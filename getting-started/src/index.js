@@ -1,6 +1,7 @@
-// ES6
-// import _ from 'lodash';
-// ES5
+// ES6 문법
+import _ from 'lodash';
+
+// ES5 문법
 // var _ = require('lodash');
 // var path = require('path');
 
