@@ -1,0 +1,13 @@
+npm init -y
+package.json 생성
+
+npm i webpack webpack-cli -D
+개발용 라이브러리
+
+npm i lodash
+웹팩 관련 라이브러리
+
+main.js -> 웹팩에서 웹서비스를 구성하는 파일들 혹은 모듈들을 하나의 번호로 관리를 한다
+IIFE(Immediately Invoked Function Expression) 즉시 실행함수 안에 담겨있다
+
+웹팩은 기본적으로 그 때 그 때 필요할 때 요청하자는 철학을 갖고 있다.
