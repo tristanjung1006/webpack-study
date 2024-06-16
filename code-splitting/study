@@ -1,0 +1,2 @@
+entry output으로 변환, 번들링, 빌드하는 과정에서 Loader를 통하고 마지막에 css파일을 별도로 추출했던 것이 plugin이 했던 역할이다.
+
